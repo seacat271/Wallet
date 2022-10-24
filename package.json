@@ -1,8 +1,8 @@
 {
-  "name": "infinity-wallet",
+  "name": "wallet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maksymenkomaksym.github.io/infinity-wallet/",
+  "homepage": "https://seacat271.github.io/wallet.git/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
