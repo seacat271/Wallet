@@ -1,15 +1,15 @@
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch} from 'react-redux';
 import PropTypes from 'prop-types';
 
 import { addModalData, openModal } from 'redux/transactions/transactionsSlice';
-import { isModalAddTransactionOpen } from 'redux/transactions/transactionsSelectors';
+// import { isModalAddTransactionOpen } from 'redux/transactions/transactionsSelectors';
 
 import sprite from '../../assets/images/icons.svg';
 import { EdBtn, Icon } from './ListButton.styled';
 
 const EditBtn = ({ item }) => {
   const dispatch = useDispatch();
-  const isModalOpen = useSelector(isModalAddTransactionOpen);
+  // const isModalOpen = useSelector(isModalAddTransactionOpen);
 
   const editActionBtn = item => {
     dispatch(addModalData(item));
