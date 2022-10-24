@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wallet.git/static/css/main.bdefddde.css",
-    "main.js": "/wallet.git/static/js/main.d14b5d9b.js",
+    "main.js": "/wallet.git/static/js/main.b7c934de.js",
     "static/js/930.c332b273.chunk.js": "/wallet.git/static/js/930.c332b273.chunk.js",
     "static/js/708.3cbd2cbb.chunk.js": "/wallet.git/static/js/708.3cbd2cbb.chunk.js",
     "static/js/126.5d8f5640.chunk.js": "/wallet.git/static/js/126.5d8f5640.chunk.js",
@@ -36,7 +36,7 @@
     "static/media/wave-mobile.svg": "/wallet.git/static/media/wave-mobile.340c22a500ab5a21cd92a8df9fb25c67.svg",
     "static/media/wave-desktop.svg": "/wallet.git/static/media/wave-desktop.79c23c3b7292d14148dba4e0343c8ea9.svg",
     "main.bdefddde.css.map": "/wallet.git/static/css/main.bdefddde.css.map",
-    "main.d14b5d9b.js.map": "/wallet.git/static/js/main.d14b5d9b.js.map",
+    "main.b7c934de.js.map": "/wallet.git/static/js/main.b7c934de.js.map",
     "930.c332b273.chunk.js.map": "/wallet.git/static/js/930.c332b273.chunk.js.map",
     "708.3cbd2cbb.chunk.js.map": "/wallet.git/static/js/708.3cbd2cbb.chunk.js.map",
     "126.5d8f5640.chunk.js.map": "/wallet.git/static/js/126.5d8f5640.chunk.js.map",
@@ -54,6 +54,6 @@
   },
   "entrypoints": [
     "static/css/main.bdefddde.css",
-    "static/js/main.d14b5d9b.js"
+    "static/js/main.b7c934de.js"
   ]
 }
